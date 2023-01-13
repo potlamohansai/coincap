@@ -1,0 +1,10 @@
+.items{
+    color: white;
+    position: relative;
+    display: flex;
+    max-width: 70%;
+    justify-content: space-between;
+    top: 80px;
+    margin: auto;
+    text-align: center;
+}
